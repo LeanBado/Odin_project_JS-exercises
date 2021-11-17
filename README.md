@@ -1,3 +1,3 @@
 # Odin_project_JS-exercises
  - - - - - - - - - - - - - - - - - - - - - - - - -
-Some easy exercises
+Some easy practice 
